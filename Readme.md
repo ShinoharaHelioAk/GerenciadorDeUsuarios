@@ -37,7 +37,7 @@ CREATE TABLE usuarios (
 );
 ```
 
-* Baixar o arquivo .WAR da aplicação, que se encontra no caminho **GerenciadorDeUsuarios/WAR/** do repositório do GitHub e importá-lo na sua IDE.
+* Baixar o arquivo .WAR da aplicação, que se encontra no caminho [GerenciadorDeUsuarios/WAR/](https://github.com/ShinoharaHelioAk/GerenciadorDeUsuarios/tree/master/WAR) do repositório do GitHub e importá-lo na sua IDE.
 
 
 * Adicionar o conector do MySql (.jar) no build path do projeto.
